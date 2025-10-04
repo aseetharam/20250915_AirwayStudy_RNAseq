@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+# files can be edited directly from the vscode!
 # 00_get-raw-files.sh
 #
 # Downloads, compresses, and renames a list of SRA runs for the HASM project.
