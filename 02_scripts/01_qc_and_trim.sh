@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# files can be edited directly!
 # 01_qc_and_trim.sh
 #
 # This script performs two main functions:
