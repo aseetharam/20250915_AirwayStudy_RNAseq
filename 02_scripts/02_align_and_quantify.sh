@@ -17,6 +17,7 @@ set -e
 BASE_DIR="/scratch/scholar/aseethar/20250915_AirwayStudy_RNAseq"
 
 # Input/Output Directories
+# comment
 TRIMMED_READS_DIR="${BASE_DIR}/01_data/processed/trimmed_reads"
 ALIGNMENTS_DIR="${BASE_DIR}/03_analysis/alignments"
 COUNTS_DIR="${BASE_DIR}/03_analysis/counts"
